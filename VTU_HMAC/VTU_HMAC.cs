@@ -113,7 +113,7 @@ namespace VTU_HMAC
             string hexString = "";
             for (int i = 0; i < buffer.Length; i++)
             {
-                hexString += buffer[i].ToString("X2");
+                hexString += buffer[i].ToString("x2");
             }
             return hexString;
         }

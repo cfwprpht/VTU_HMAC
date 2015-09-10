@@ -1,0 +1,9 @@
+C:\Git\VTU_HMAC\VTU_HMAC\bin\Release\VTU_HMAC.exe.config
+C:\Git\VTU_HMAC\VTU_HMAC\bin\Release\VTU_HMAC.exe
+C:\Git\VTU_HMAC\VTU_HMAC\bin\Release\VTU_HMAC.pdb
+C:\Git\VTU_HMAC\VTU_HMAC\obj\Release\VTU_HMAC.csprojResolveAssemblyReference.cache
+C:\Git\VTU_HMAC\VTU_HMAC\obj\Release\VTU_HMAC.VTU_HMAC.resources
+C:\Git\VTU_HMAC\VTU_HMAC\obj\Release\VTU_HMAC.Properties.Resources.resources
+C:\Git\VTU_HMAC\VTU_HMAC\obj\Release\VTU_HMAC.csproj.GenerateResource.Cache
+C:\Git\VTU_HMAC\VTU_HMAC\obj\Release\VTU_HMAC.exe
+C:\Git\VTU_HMAC\VTU_HMAC\obj\Release\VTU_HMAC.pdb
